@@ -1,0 +1,21 @@
+```
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Dependencies
+venv/
+.venv/
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Data export directories (based on pattern in changes)
+*khamasat_*_*/ 
+
+# Original rule preserved
+*.log
+```
